@@ -5,10 +5,7 @@
 	"description": "A theme that removes the dark Incognito Mode colour scheme from Chrome.",
 	"version": "5.0.1",
 
-	"theme": {
-		"images": {
-			"theme_ntp_background": "images/theme_ntp_background.png"
-		},
+
 		"colors": {
 			"frame": [222, 225, 230],
 			"frame_inactive": [231, 234, 237],
